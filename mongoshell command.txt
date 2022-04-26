@@ -1,0 +1,5 @@
+mongod
+mongod
+show dbs
+use dbname
+db.user.find().pretty()
